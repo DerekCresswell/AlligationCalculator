@@ -1,0 +1,28 @@
+
+  /*
+  *  Alligation Calculator
+  *  All code writeen by : Derek Cresswell
+  */
+  
+  import controlP5.*;
+  
+  ControlP5 cp5;
+  
+  void setup(){
+    
+    cp5 = new ControlP5(this);
+    
+  }
+  
+  void draw(){
+  
+  }
+  
+  public float alternate(float per1, float per2){
+    
+    float toRet = 0;
+    
+    
+    
+    return toRet;
+  }
